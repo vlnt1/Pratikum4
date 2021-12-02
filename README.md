@@ -11,4 +11,19 @@ script program :<p>
 output :<p>
 ![2output](img/2o.png)<p>
 UBAH ELEMENT LIST<p>
+Mengubah elemen ke 4 dengan nilai lainnya, dan mengubah elemen ke 4 sampai dengan elemen terakhir
+script program :<p> 
+![3](img/3.png)<p>
+output yang dihasilkan :<p>
+![3output](img/3o.png)<p>
+TAMBAH ELEMENT LIST<p>
+1. mengambil 2 bagian dari list pertama (A) dan jadikan list ke 2 (B)<p>
+2. tambah list B dengan nilai string<p>
+3. tambah list B dengan 3 nilai<p>
+4. gabungkan list B dengan list A<p>
+berikut contoh script :<p>
+![4](img/4.png)<p>
+output yang dihasilkan :<p>
+![4output](img/4o.png)<p>
+
 
