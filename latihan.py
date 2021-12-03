@@ -17,11 +17,11 @@ print("Ubah Elemen List")
 
 print("Ubah elemen ke 4 dengan nilai lainnya")
 odd = [1,2,3,4,5]
-odd[3] = 10
+odd[3] = 1
 print(odd)
 
 print("Ubah elemen ke 4 sampai dengan elemen terakhir")
-odd[3:5] = [10,11]
+odd[3:5] = [1,2]
 print(odd)
 
 print("Tambah Elemen List")
